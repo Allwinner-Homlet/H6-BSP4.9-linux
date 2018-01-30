@@ -1,0 +1,12 @@
+obj-m			+= ov5640.o
+obj-m           += gc2145.o
+#obj-m			+= imx214.o
+#obj-m			+= imx219.o
+#obj-m			+= imx274_slvds.o
+#obj-m			+= imx291_dvp.o
+#obj-m			+= imx291_mipi.o
+#obj-m			+= imx317_mipi.o
+#obj-m			+= imx326_mipi.o
+#obj-m			+= imx477_mipi.o
+#obj-m			+= ov2710_mipi.o
+#obj-m			+= ov2718_mipi.o
